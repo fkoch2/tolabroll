@@ -5,3 +5,6 @@ How to use it:
 2) Make sure to install the dependencies, namely the pyavb library by Mark Reid, by running `pip install -r /path/to/tolabroll_requirements.txt`
 3) Clone this repository
 4) `python3 tolabroll.py path/to/bin1 path/to/bin2....`
+
+
+Thanks to Ben & 6-11
